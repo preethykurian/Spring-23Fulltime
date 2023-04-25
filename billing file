@@ -2,3 +2,4 @@ int item1, item2, item3, sum;
 sum=item1+item2+item3;
 System.out.println("Sum= " + sum);
 print hi
+print bye
